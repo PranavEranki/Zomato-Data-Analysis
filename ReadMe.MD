@@ -4,23 +4,22 @@
 
 ## This is an indepth 3 step data analysis
 
+All the main markdownfiles are separated. Go through the steps below and click on the links for both the markdown files and the Jupyter Notebooks.
+
 ### Step 1: 
 Data preprocessing:
-[Explanation for preproccesing]()
-
-[Preprocessing file]()
+* [Explanation for preproccesing]()
+* [Preprocessing file]()
 
 ### Step 2:
 EDA:
-[Explanation for EDA]()
-
-[EDA file]()
+* [Explanation for EDA]()
+* [EDA file]()
 
 ### Step 3:
 Classification on 3 different problems:
-[Explanation for Classification]()
-
-[Classification file]()
+* [Explanation for Classification]()
+* [Classification file]()
 
 
 ### Conclusions?

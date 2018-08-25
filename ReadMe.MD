@@ -23,9 +23,9 @@ Classification on 3 different problems:
 
 
 ### Conclusions?
-1. There is a strong correlation between Table Booking and the other features
-2. There is a weak correlation between Online Delivery and other features
-3. There is a somewhat weak correlation between the Aggregate Rating and the other features
+1. There is a strong correlation between Table Booking and the other features.
+2. There is a somewhat weak correlation between Online Delivery and other features.
+3. There is a somewhat weak correlation between the Aggregate Rating and the other features.
 
 ### Personal Outcomes
 * Learned how to use a __pipeline__

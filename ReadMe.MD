@@ -8,18 +8,18 @@ All the main markdownfiles are separated. Go through the steps below and click o
 
 ### Step 1: 
 Data preprocessing:
-* [Explanation for preproccesing]()
-* [Preprocessing file]()
+* [Explanation for preproccesing](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/PreprocessingData.MD)
+* [Preprocessing file](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/PreprocessingData.py.ipynb)
 
 ### Step 2:
 EDA:
-* [Explanation for EDA]()
-* [EDA file]()
+* [Explanation for EDA](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/PerformingEDA.MD)
+* [EDA file](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/PerformingEDA.ipynb)
 
 ### Step 3:
 Classification on 3 different problems:
-* [Explanation for Classification]()
-* [Classification file]()
+* [Explanation for Classification](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/Classifier.MD)
+* [Classification file](https://github.com/PranavEranki/Zomato-Data-Analysis/blob/master/Classifier.ipynb)
 
 
 ### Conclusions?
